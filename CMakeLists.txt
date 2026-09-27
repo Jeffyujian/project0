@@ -17,3 +17,5 @@ fprime_setup_included_code()
 
 # This includes project-wide objects
 add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/project0Namespace")
+add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/HelloWorld/")
+add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/HiDeployment/")
